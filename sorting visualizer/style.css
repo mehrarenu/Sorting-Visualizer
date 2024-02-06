@@ -1,0 +1,28 @@
+#container{
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+    margin-top: 200px;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;    
+    background-color: rgba(222, 184, 135, 0.768);
+}
+
+.bar{
+    width: 10px;
+    background-color: teal;
+    margin:1px;
+    width: 20px; 
+}
+button{
+    background-color: salmon ;
+    font-weight: bold;
+}
+h1{
+    color:black;
+    font-size: 45px;
+}
